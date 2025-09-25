@@ -1,0 +1,42 @@
+{
+  "artists": [
+    {
+      "name": "DEMS PRODUCE",
+      "role": "Productor / Autor",
+      "pro": "ASCAP",
+      "img": "assets/img/artist-1.svg"
+    },
+    {
+      "name": "Islamora",
+      "role": "Artista",
+      "pro": "BMI",
+      "img": "assets/img/artist-2.svg"
+    },
+    {
+      "name": "Beatmaker X",
+      "role": "Compositor",
+      "pro": "—",
+      "img": "assets/img/artist-3.svg"
+    },
+    {
+      "name": "Ingeniero Z",
+      "role": "Mezcla/Master",
+      "pro": "—",
+      "img": "assets/img/artist-4.svg"
+    }
+  ],
+  "highlights": [
+    {
+      "title": "Licencias recientes",
+      "desc": "Campañas y trailers con música original.",
+      "img": "assets/img/hero-2.svg",
+      "link": "licensing.html"
+    },
+    {
+      "title": "Nuevos lanzamientos",
+      "desc": "Obras recién incorporadas al catálogo.",
+      "img": "assets/img/hero-3.svg",
+      "link": "press.html"
+    }
+  ]
+}

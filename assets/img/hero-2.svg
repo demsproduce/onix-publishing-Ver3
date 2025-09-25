@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="#0d2038" height="#191b24" viewBox="0 0 #0d2038 #191b24">
+    <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0%" stop-color="#1f2937"/><stop offset="100%" stop-color="#111827"/></linearGradient></defs>
+    <rect width="100%" height="100%" fill="url(#g)"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial" font-size="56" fill="#a7b2c2" opacity="0.8">Onix Publishing — Highlights</text>
+  </svg>
